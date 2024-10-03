@@ -4,8 +4,8 @@ This contains all releases I've ever made.
 
 # License:
 For personal use: Pretty much anything goes. Just don’t do anything illegal or infringing on others.
-(If it has anything related to do with other people, **it's not personal use**)
-For commercial use: This is not allowed unless you've gotten direct permission from me to do so.
+<br>(If it has anything related to do with other people, **it's not personal use**)
+<br>For commercial use: This is not allowed unless you've gotten direct permission from me to do so.
 
 Some exceptions on this rule:
 - You can make a video using my releases, which can then be monetized.
