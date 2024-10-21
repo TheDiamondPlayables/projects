@@ -17,5 +17,3 @@ This contains all releases I've ever made and am maintaining. The ones I have ac
 - You can host a server or Realm using my releases, and make money from that.
 - You must provide an easily accessible link to each release used.
   - As with videos, if the instructions require more than two sentences, **it’s not considered easily accessible**.
-
-yes.
