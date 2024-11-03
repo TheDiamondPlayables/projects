@@ -8,11 +8,13 @@ Ever since 1.19.3, if you use a version that wasn't designed for the Minecraft r
 ## How it works:
 It's quite simple: Look at the letter in the version number. That shows you the Minecraft Release it was built for.
 - `-` means it's for the base version:
-  - 19-x => for 1.19, 20-x => for 1.20, ...
+  - 20-x => for 1.20, 21-x => for 1.21, ...
 - `a` = `.1`, `b` = `.2`, and so on:
-  - 20`b`x => for 1.20`.2`, 19`c`x => for 1.19`.3`, ...
+  - 20`c`x => for 1.20`.3`, 20`b`x => for 1.20`.2`, ...
+  - There's no way we'd reach past update `.26`, which is `z` for this numbering scheme.
 - **Note that if the Release itself only contains bugfixes, roll back a letter!**
   - 20`d`x would've been designed for 1.20`.4`, but since that update only has some bugfixes, 20`c`x is built for 1.20.3 and 1.20.4 as well.
+  - Updates that's actually a bugfix: `1.20.1`, `1.20.4`, `1.20.6`, `1.21.1`, `1.21.3`, ... and many more in the future. I'm sure you'll know them when you see them.
 
 # License:
 ## For personal use:
