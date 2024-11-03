@@ -11,10 +11,8 @@ It's quite simple: Look at the letter in the version number. That shows you the 
   - 19-x => for 1.19, 20-x => for 1.20, ...
 - `a` = `.1`, `b` = `.2`, and so on:
   - 20`b`x => for 1.20`.2`, 19`c`x => for 1.19`.3`, ...
-- Note that if the Release itself only contains bugfixes, roll back a letter.
-  - 20`d`x would've been designed for 1.20`.4`, but since that update only has some bugfixes, 20`c`x is built for 1.20.3 and 1.20.4 as well!
-
-Note: There is one other rule with this: If the Release itself only contains bugfixes, roll back one letter.
+- **Note that if the Release itself only contains bugfixes, roll back a letter!**
+  - 20`d`x would've been designed for 1.20`.4`, but since that update only has some bugfixes, 20`c`x is built for 1.20.3 and 1.20.4 as well.
 
 # License:
 ## For personal use:
