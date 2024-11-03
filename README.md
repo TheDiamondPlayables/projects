@@ -3,8 +3,7 @@ This contains all releases I've ever made and am maintaining. The ones I have ac
 <br>They're all in a pretty neat format, so you can effectively download anything with ease if you know your way around the system.
 
 # Versioning:
-Ever since 1.19.3, if you use a version that wasn't designed for the Minecraft release you're on, [you're going to have issues](https://web.archive.org/web/20221025032759/https://help.minecraft.net/hc/en-us/articles/9971900758413).
-<br>(because Mojang's changed how their updates work)
+Ever since 1.19.3, Mojang's changed how their updates work. A side effect of this is that: If you now use a version that wasn't designed for the Minecraft release you're on, [you're going to have issues](https://web.archive.org/web/20221025032759/https://help.minecraft.net/hc/en-us/articles/9971900758413).
 <br>To combat this, I've devised a Version Numbering Scheme that aims to let you know which version was built for which Release.
 ## How it works:
 It's quite simple: Look at the letter in the version number. That shows you the Minecraft Release it was built for.
