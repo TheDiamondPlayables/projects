@@ -14,7 +14,8 @@ It's quite simple: Look at the letter in the version number. That shows you the 
   - There's no way we'd reach past update `.26`, which is `z` for this numbering scheme.
 - **Note that if the Release itself only contains bugfixes, roll back a letter!**
   - 20`d`x would've been designed for 1.20`.4`, but since that update only has some bugfixes, 20`c`x is built for 1.20.3 and 1.20.4 as well.
-  - Updates that's actually a bugfix: `1.20.1`, `1.20.4`, `1.20.6`, `1.21.1`, `1.21.3`, ... and many more in the future. I'm sure you'll know them when you see them.
+  - Updates that's actually a bugfix: `1.20.1`, `1.20.4`, `1.20.6`, `1.21.1`, `1.21.3`, ... and many more in the future.
+    <br>I'm sure you'll know them when you see them.
 
 # License:
 ## For personal use:
