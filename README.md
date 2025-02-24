@@ -1,5 +1,5 @@
 # Projects:
-This contains all releases I've ever made and am maintaining. The ones I have access to anyway.
+This contains all releases I've ever made and am maintaining. The ones I still have anyway.
 <br>They're all in a pretty neat format, so you can effectively download anything with ease if you know your way around the system.
 
 # Versioning:
