@@ -16,4 +16,4 @@ It's quite simple: **Look at the letter in the version number**. That shows you 
   - 20`d`x would've been designed for 1.20`.4`, but since that update only has some bugfixes, 20`c`x is built for 1.20.3 and 1.20.4 as well.
 
 # License:
-By downloading and using my packs, you agree to the license stated [here](https://dplicense.thediamondplayables.com)
+By downloading and using my packs, you agree to the license stated [here](https://dplicense.thediamondplayables.com).
