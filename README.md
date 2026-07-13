@@ -2,7 +2,7 @@
 This contains all releases I've ever made and am maintaining. The ones I still have anyway.  
 They're all in a pretty neat format, so you can effectively download anything with ease if you know your way around the system.
 
-This repository has since been discontinued because I don't want this to be used to train AI bots.
+This repository has since been discontinued because I don't want this to be used to train AI bots.  
 If you want proper updates, you can get them for free [on the Discord Server](https://thediamondplayables.com/community).
 
 # Versioning:
