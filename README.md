@@ -1,6 +1,9 @@
 # Projects:
-This contains all releases I've ever made and am maintaining. The ones I still have anyway.
-<br>They're all in a pretty neat format, so you can effectively download anything with ease if you know your way around the system.
+This contains all releases I've ever made and am maintaining. The ones I still have anyway.  
+They're all in a pretty neat format, so you can effectively download anything with ease if you know your way around the system.
+
+This repository has since been discontinued because I don't want this to be used to train AI bots.
+If you want proper updates, you can get them for free [on the Discord Server](https://thediamondplayables.com/community).
 
 # Versioning:
 Ever since 1.19.3, Mojang's changed how their updates work. A side effect of this is that: If you now use a version that wasn't designed for the Minecraft release you're on, [you're going to have issues](https://web.archive.org/web/20221025032759/https://help.minecraft.net/hc/en-us/articles/9971900758413).
